@@ -1,4 +1,5 @@
 import React from 'react';
+import Latest from './pages/Latest';
 import MainPagearea from './pages/MainPagearea';
 import MainPageHeader from './pages/MainPageHeader';
 import Projects from './pages/Projects';
@@ -10,6 +11,7 @@ export function MainPage() {
             <MainPageHeader />
             <MainPagearea />
             <Projects />
+            <Latest />
         </MainPageWrapper>
     );
 }

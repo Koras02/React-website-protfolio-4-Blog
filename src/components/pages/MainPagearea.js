@@ -1,5 +1,8 @@
 import React from 'react';
-import { MainPageareaWrapper, MainPageWrapperBackground, MainPageWrapperCol, MainPageWrapperColInner, MainPageWrapperColInnerTextDescription, MainPageWrapperColInnertextleft, MainPageWrapperColInnerTextleftTitle, MainPageWrapperColLinkButton, MainPageWrapperContainer, MainPageWrapperRow } from '../style/MainPageareaStyle';
+import {
+    MainPageareaWrapper, MainPageWrapperBackground, MainPageWrapperCol, MainPageWrapperColInner, MainPageWrapperColInnerTextDescription, MainPageWrapperColInnertextleft, MainPageWrapperColInnerTextleftTitle, MainPageWrapperColLinkButton, MainPageWrapperContainer, MainPageWrapperRow
+} from '../style/MainPageareaStyle';
+
 
 
 function MainPagearea() {

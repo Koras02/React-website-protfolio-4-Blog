@@ -9,6 +9,7 @@ export const MainPageareaWrapper = styled.div`
     // border:1px solid red;
     // background:red;
     // z-index:-999;
+    margin-bottom:200px;
 `
 
 export const MainPageWrapperBackground = styled.div`
@@ -18,7 +19,7 @@ export const MainPageWrapperBackground = styled.div`
      background-size:cover;
     //  position:relative;
      opacity:0.99;
-     border:1px solid red;
+   //   border:1px solid red;
     //  background:red;
      display:flex;
      justify-content: center;
@@ -30,7 +31,7 @@ export const MainPageWrapperContainer = styled.div`
      width:100%;
     height:484px;
     padding:0px 15px;
-    border:1px solid #000;
+   //  border:1px solid #000;
     margin:0px auto;
     // z-index:
      
@@ -52,7 +53,7 @@ export const MainPageWrapperCol = styled.div`
    width:100%;
    height:484px;
    padding:0px 15px;
-   border:1px solid red;
+   // border:1px solid red;
    @media screen and (min-width:992px) {
        flex: 0 0 58.333333%;
        max-width:58.333333%;
