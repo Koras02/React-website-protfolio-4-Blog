@@ -9,7 +9,7 @@ export const LatestWrpaper = styled.div`
      margin-bottom:195px;
      padding:0 40px;
      margin:auto;
-     border:1px solid #000;
+   //   border:1px solid #000;
 `;
 
 export const LatestContainer = styled.div`
@@ -30,7 +30,7 @@ export const LatestContainerRow = styled.div`
     outline:0;
     width:1804px;
     height:701px;
-    bordeR:1px solid #000;
+   //  bordeR:1px solid #000;
 `;
 
 
@@ -40,3 +40,19 @@ export const Image = styled.img`
    height:400px;
    max-width:100%;
 `
+export const Image2 = styled.img`
+max-width:421px;
+height:400px;
+max-width:100%;
+position:absolute;
+ 
+`
+
+export const Image3 = styled.div`
+max-width:421px;
+height:400px;
+max-width:100%;
+position:absolute;
+ 
+`
+
